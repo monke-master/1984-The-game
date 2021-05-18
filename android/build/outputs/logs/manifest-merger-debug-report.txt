@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:3:5-29
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:5:22-77
+application
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:7:5-25:19
+	android:label
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:12:9-41
+	android:appCategory
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:13:9-67
+	android:isGame
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:10:9-30
+activity#com.mygdx.game.AndroidLauncher
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:18:13-50
+	android:label
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:19:13-107
+	android:name
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:16:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\game_6-master\android\AndroidManifest.xml

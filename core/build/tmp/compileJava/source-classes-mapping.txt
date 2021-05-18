@@ -1,0 +1,172 @@
+com/mygdx/game/Strings.java
+ com.mygdx.game.Strings
+com/mygdx/game/MinistryOfPlenty.java
+ com.mygdx.game.MinistryOfPlenty
+com/mygdx/game/Map.java
+ com.mygdx.game.Map
+com/mygdx/game/GameStart.java
+ com.mygdx.game.GameStart
+com/mygdx/game/MinistryBuilding.java
+ com.mygdx.game.MinistryBuilding
+com/mygdx/game/Squadron.java
+ com.mygdx.game.Squadron
+com/mygdx/game/Sounds.java
+ com.mygdx.game.Sounds
+com/mygdx/game/ResourceDecree.java
+ com.mygdx.game.ResourceDecree
+com/mygdx/game/Values.java
+ com.mygdx.game.Values
+com/mygdx/game/Building.java
+ com.mygdx.game.Building
+com/mygdx/game/Troop.java
+ com.mygdx.game.Troop
+com/mygdx/game/Ministry.java
+ com.mygdx.game.Ministry
+com/mygdx/game/Region.java
+ com.mygdx.game.Region
+com/mygdx/game/Science.java
+ com.mygdx.game.Science
+com/mygdx/game/TheGame.java
+ com.mygdx.game.TheGame
+com/mygdx/game/Country.java
+ com.mygdx.game.Country
+com/mygdx/game/ResourceBuilding.java
+ com.mygdx.game.ResourceBuilding
+com/mygdx/game/Fleet.java
+ com.mygdx.game.Fleet
+com/mygdx/game/MainMenuScreen.java
+ com.mygdx.game.MainMenuScreen
+ com.mygdx.game.MainMenuScreen$1
+ com.mygdx.game.MainMenuScreen$2
+ com.mygdx.game.MainMenuScreen$3
+com/mygdx/game/Decree.java
+ com.mygdx.game.Decree
+com/mygdx/game/MoneyBuilding.java
+ com.mygdx.game.MoneyBuilding
+com/mygdx/game/Technology.java
+ com.mygdx.game.Technology
+com/mygdx/game/MinTruthScreen.java
+ com.mygdx.game.MinTruthScreen
+ com.mygdx.game.MinTruthScreen$1
+ com.mygdx.game.MinTruthScreen$2
+ com.mygdx.game.MinTruthScreen$3
+ com.mygdx.game.MinTruthScreen$3$1
+ com.mygdx.game.MinTruthScreen$4
+com/mygdx/game/RegionScreen.java
+ com.mygdx.game.RegionScreen
+ com.mygdx.game.RegionScreen$1
+ com.mygdx.game.RegionScreen$2
+com/mygdx/game/Army.java
+ com.mygdx.game.Army
+com/mygdx/game/SquadronScreen.java
+ com.mygdx.game.SquadronScreen
+ com.mygdx.game.SquadronScreen$1
+ com.mygdx.game.SquadronScreen$2
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+ com.mygdx.game.GameScreen$1
+ com.mygdx.game.GameScreen$10
+ com.mygdx.game.GameScreen$11
+ com.mygdx.game.GameScreen$12
+ com.mygdx.game.GameScreen$13
+ com.mygdx.game.GameScreen$2
+ com.mygdx.game.GameScreen$3
+ com.mygdx.game.GameScreen$4
+ com.mygdx.game.GameScreen$5
+ com.mygdx.game.GameScreen$6
+ com.mygdx.game.GameScreen$7
+ com.mygdx.game.GameScreen$8
+ com.mygdx.game.GameScreen$9
+com/mygdx/game/FleetScreen.java
+ com.mygdx.game.FleetScreen
+ com.mygdx.game.FleetScreen$1
+ com.mygdx.game.FleetScreen$2
+com/mygdx/game/PlayerCountry.java
+ com.mygdx.game.PlayerCountry
+com/mygdx/game/MinistriesScreen.java
+ com.mygdx.game.MinistriesScreen
+ com.mygdx.game.MinistriesScreen$1
+ com.mygdx.game.MinistriesScreen$2
+ com.mygdx.game.MinistriesScreen$3
+ com.mygdx.game.MinistriesScreen$4
+ com.mygdx.game.MinistriesScreen$5
+ com.mygdx.game.MinistriesScreen$6
+com/mygdx/game/BuildScreen.java
+ com.mygdx.game.BuildScreen
+ com.mygdx.game.BuildScreen$1
+ com.mygdx.game.BuildScreen$2
+ com.mygdx.game.BuildScreen$3
+ com.mygdx.game.BuildScreen$4
+com/mygdx/game/EndgameScreen.java
+ com.mygdx.game.EndgameScreen
+ com.mygdx.game.EndgameScreen$1
+com/mygdx/game/Colors.java
+ com.mygdx.game.Colors
+com/mygdx/game/GameData.java
+ com.mygdx.game.GameData
+com/mygdx/game/Brotherhood.java
+ com.mygdx.game.Brotherhood
+com/mygdx/game/MinLoveScreen.java
+ com.mygdx.game.MinLoveScreen
+ com.mygdx.game.MinLoveScreen$1
+ com.mygdx.game.MinLoveScreen$2
+ com.mygdx.game.MinLoveScreen$3
+ com.mygdx.game.MinLoveScreen$3$1
+ com.mygdx.game.MinLoveScreen$4
+com/mygdx/game/MinPlentyScreen.java
+ com.mygdx.game.MinPlentyScreen
+ com.mygdx.game.MinPlentyScreen$1
+ com.mygdx.game.MinPlentyScreen$2
+ com.mygdx.game.MinPlentyScreen$3
+ com.mygdx.game.MinPlentyScreen$3$1
+ com.mygdx.game.MinPlentyScreen$4
+com/mygdx/game/PropagandaResearchScreen.java
+ com.mygdx.game.PropagandaResearchScreen
+ com.mygdx.game.PropagandaResearchScreen$1
+ com.mygdx.game.PropagandaResearchScreen$2
+ com.mygdx.game.PropagandaResearchScreen$3
+ com.mygdx.game.PropagandaResearchScreen$3$1
+ com.mygdx.game.PropagandaResearchScreen$4
+com/mygdx/game/Styles.java
+ com.mygdx.game.Styles
+com/mygdx/game/ThoughtPoliceScreen.java
+ com.mygdx.game.ThoughtPoliceScreen
+ com.mygdx.game.ThoughtPoliceScreen$1
+ com.mygdx.game.ThoughtPoliceScreen$2
+ com.mygdx.game.ThoughtPoliceScreen$3
+ com.mygdx.game.ThoughtPoliceScreen$3$1
+ com.mygdx.game.ThoughtPoliceScreen$4
+com/mygdx/game/AvailableBuildingScreen.java
+ com.mygdx.game.AvailableBuildingScreen
+ com.mygdx.game.AvailableBuildingScreen$1
+ com.mygdx.game.AvailableBuildingScreen$2
+ com.mygdx.game.AvailableBuildingScreen$3
+com/mygdx/game/MinPeaceScreen.java
+ com.mygdx.game.MinPeaceScreen
+ com.mygdx.game.MinPeaceScreen$1
+ com.mygdx.game.MinPeaceScreen$2
+ com.mygdx.game.MinPeaceScreen$3
+ com.mygdx.game.MinPeaceScreen$3$1
+ com.mygdx.game.MinPeaceScreen$4
+com/mygdx/game/ComputerCountry.java
+ com.mygdx.game.ComputerCountry
+com/mygdx/game/ChooseCountryScreen.java
+ com.mygdx.game.ChooseCountryScreen
+ com.mygdx.game.ChooseCountryScreen$1
+ com.mygdx.game.ChooseCountryScreen$2
+ com.mygdx.game.ChooseCountryScreen$3
+ com.mygdx.game.ChooseCountryScreen$4
+com/mygdx/game/ResourcesScreen.java
+ com.mygdx.game.ResourcesScreen
+ com.mygdx.game.ResourcesScreen$1
+ com.mygdx.game.ResourcesScreen$2
+com/mygdx/game/ArmyScreen.java
+ com.mygdx.game.ArmyScreen
+ com.mygdx.game.ArmyScreen$1
+ com.mygdx.game.ArmyScreen$2
+com/mygdx/game/TroopsScreen.java
+ com.mygdx.game.TroopsScreen
+ com.mygdx.game.TroopsScreen$1
+ com.mygdx.game.TroopsScreen$2
+ com.mygdx.game.TroopsScreen$3
+ com.mygdx.game.TroopsScreen$4

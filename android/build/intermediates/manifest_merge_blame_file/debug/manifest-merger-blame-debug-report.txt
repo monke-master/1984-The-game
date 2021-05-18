@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mygdx.game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:4:5-81
+11-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:5:5-80
+12-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:5:22-77
+13
+14    <application
+14-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:7:5-25:19
+15        android:allowBackup="true"
+15-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:8:9-35
+16        android:appCategory="game"
+16-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:11:9-35
+17        android:debuggable="true"
+18        android:icon="@drawable/ic_launcher"
+18-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:9:9-45
+19        android:isGame="true"
+19-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:10:9-30
+20        android:label="@string/app_name"
+20-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:12:9-41
+21        android:testOnly="true"
+22        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+22-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:13:9-67
+23        <activity
+23-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:15:9-24:20
+24            android:name="com.mygdx.game.AndroidLauncher"
+24-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:16:13-58
+25            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+25-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:19:13-107
+26            android:label="@string/app_name"
+26-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:17:13-45
+27            android:screenOrientation="landscape" >
+27-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:18:13-50
+28            <intent-filter>
+28-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:20:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:21:17-69
+29-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:22:17-77
+31-->D:\AndroidProjects\game_6-master\android\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>
