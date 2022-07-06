@@ -9,3 +9,12 @@
 ![6](https://github.com/monke-master/1984-The-game/blob/master/6.jpg)
 ![7](https://github.com/monke-master/1984-The-game/blob/master/7.jpg)
 ![8](https://github.com/monke-master/1984-The-game/blob/master/8.jpg)
+# Использованные технологии 
+
+## LibGDX
+
+Фреймворк для создания кросслпатформенных игр
+
+<p align="center">
+  <img src="https://images.pcgamingwiki.com/6/61/LibGDX_logo.png" alt="sdk"" />
+</p>
